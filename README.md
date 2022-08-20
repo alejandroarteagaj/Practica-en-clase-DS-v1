@@ -5,7 +5,7 @@
  Practica en clase 
 Diseño de software 
 Alejandro Arteaga Jaramillo 
-Enlace al repositorio: https://github.com/alejandroarteagaj/Practica-en-clase-DS.git
+Enlace al repositorio: https://github.com/alejandroarteagaj/Practica-en-clase-DS-v1.git
 Preguntas:
 •	¿Qué significa que mi sistema sea modular y tenga un bajo acople?
 Un sistema modular es aquel el que contiene varias clases y funciones definidas, permitiendo así que cada una de estas realice funciones especificas impidiendo dar funciones innecesarias a clases creadas, lo que se traduce en un desorden en el código creado, cuando se habla de bajo acople, esto hace referencia a que a pesar del que sistema esta modular con varias clases, cada enfocada a distintas funciones, estas no tienen relación con las demás clases creadas, por lo que las variables a utilizar ene cada clase, deberán definirse/obtenerse dentro de las mismas clases creadas lo cual se traduce en trabajo innecesario a las modulaciones del código, por esto es recomendable, crear una clase inicial donde se pueda definir la mayoría de estas variables a utilizar para posteriormente llamarlas desde otra clase y no tener que crearlas desde otro modulo.
